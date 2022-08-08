@@ -31,9 +31,9 @@ A partir dessas demandas, teremos uma aplicação onde a pessoa usuária poderá
 # Equipe de desenvolvimento
 
   - Thiago Jarilho Zardo (eu)
-  - Thiago de Carvalho Corrêa
-  - Luiz Tharik
-  - Khyra de Oliveira
-  - Maria Júlia Penha Domenciano
+  - Thiago de Carvalho Corrêa https://github.com/tcorrea
+  - Luiz Tharik https://github.com/Thariklz
+  - Khyra de Oliveira https://github.com/khyraoliveira
+  - Maria Júlia Penha Domenciano https://github.com/juliadomenciano
 
  ---
