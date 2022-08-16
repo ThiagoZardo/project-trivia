@@ -14,7 +14,7 @@ A partir dessas demandas, teremos uma aplicação onde a pessoa usuária poderá
  
   ---
 
-## protótipo do Projeto
+## Protótipo do Projeto
 https://user-images.githubusercontent.com/66880417/184795320-c9eae99e-3b26-4bbb-a5a0-ee17046ebd82.mp4
  
   ---
