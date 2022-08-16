@@ -11,6 +11,13 @@ A partir dessas demandas, teremos uma aplicação onde a pessoa usuária poderá
   - Configurar algumas opções para o jogo em uma tela de configuração acessível a partir do cabeçalho do app.
 
  ---
+ 
+  ---
+
+## protótipo do Projeto
+ https://user-images.githubusercontent.com/66880417/184704457-5a5c88d0-95d3-4a50-9496-5a12f94ca5f9.mp4
+ 
+  ---
 
 # Habilidades desenvolvidas
 
